@@ -13,17 +13,14 @@ driver = ''
 
 #Scenario: Fill and Enter Form Evalution
 Given("I Enter the form evaluation") do
-  
+  # ...
 end
-
 Then("I Want to fill form on the first Page") do
-  
+	# ...
 end
-
 Then("I Want to fill form on the second Page") do
- 
+	# ... 
 end
-
 Then("I Want to fill form on the third Page") do
-  
+	# ...
 end
